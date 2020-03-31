@@ -1,19 +1,25 @@
-# todo-ninja
+# TodoNinja
 
-## Project setup
-```
-npm install
-```
+A project to learn Vuetify from the youtube playlist [Vuetify Tutorial](https://www.youtube.com/watch?v=zrfeO1Uwiws&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Dashboard
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Dashboard](screenshots/dashboard.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Projects
+
+![Dashboard](screenshots/projects.png)
+
+## Team
+
+![Dashboard](screenshots/team.png)
+
+## Add project
+
+![Dashboard](screenshots/add_project.png)
+
+## To do
+
+- Edit/delete project
+- Authentification
+- Statistics on projects
